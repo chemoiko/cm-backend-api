@@ -56,7 +56,7 @@ python manage.py runserver
 
 ```
 
-##API Endpoints
+## API Endpoints
 -POST	/api/campaigns/	Create a new campaign
 -GET	/api/campaigns/	Retrieve all campaigns
 -GET	/api/campaigns/{id}/	Retrieve a specific campaign
