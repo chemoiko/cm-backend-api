@@ -57,11 +57,11 @@ python manage.py runserver
 ```
 
 ## API Endpoints
--POST	/api/campaigns/	Create a new campaign
--GET	/api/campaigns/	Retrieve all campaigns
--GET	/api/campaigns/{id}/	Retrieve a specific campaign
--PUT	/api/campaigns/{id}/	Update a specific campaign
--DELETE	/api/campaigns/{id}/	Delete a specific campaign
+- POST	/api/campaigns/	Create a new campaign
+- GET	/api/campaigns/	Retrieve all campaigns
+- GET	/api/campaigns/{id}/	Retrieve a specific campaign
+- PUT	/api/campaigns/{id}/	Update a specific campaign
+- DELETE	/api/campaigns/{id}/	Delete a specific campaign
 
 Open [http://localhost:8000](http://localhost:8000) in your browser to view the project.
 
