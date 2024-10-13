@@ -1,7 +1,7 @@
 #Marketing Manager Backend
  - Link to website   <a>https://car-showcase-next-js-iota.vercel.app/</a>
 
-![banner](https://imgur.com/2d0AFmP)
+![banner](https://imgur.com/2d0AFmP,png)
 <div align="center">
   <br />
 
