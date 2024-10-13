@@ -21,7 +21,7 @@ This is a backend application for managing marketing campaigns using Django. The
 - Django
 - Django REST Framework
 
-**Installation**
+## Installation
 **Running the Project**
 -Clone the repo
 ```
